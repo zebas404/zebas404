@@ -24,5 +24,8 @@ Running business-critical middleware platforms of 130+ servers in production.
 - ✅ Oracle Cloud Infrastructure 2025 Foundations Associate
 - ⏳ AWS Certified Cloud Practitioner (in progress)
 
+## Projects
+- **[sebastianavila.cloud](https://sebastianavila.cloud)**: my personal website on Amazon S3 + CloudFront, deployed with GitHub Actions and OIDC (no stored keys). [Code](https://github.com/zebas404/sebastianavila.cloud)
+
 ## Connect
-[LinkedIn](https://www.linkedin.com/in/zebas404/)
+[Website](https://sebastianavila.cloud) · [LinkedIn](https://www.linkedin.com/in/zebas404/)
