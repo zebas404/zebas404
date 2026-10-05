@@ -2,7 +2,7 @@
 
 **Middleware Administrator → Cloud Engineer (AWS)**
 
-Running business-critical platforms of 130+ servers for clients in Colombia and Spain.
+Running business-critical middleware platforms of 130+ servers in production.
 
 ## About me
 - 10 years in IT, 5+ years operating **WebLogic, JBoss, Apache, Tomcat and IIS** in production
